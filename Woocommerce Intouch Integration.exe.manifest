@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Woocommerce Intouch Integration.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="Woocommerce Intouch Integration.exe" version="1.0.0.7" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Woocommerce Intouch Integration" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -39,6 +39,18 @@
   <dependency>
     <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
       <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HaloAPI.dll" size="202240">
+      <assemblyIdentity name="HaloAPI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>p7cADKjf80mwndCZTqNjZzms+GjKBc6kjrcwLg0eddY=</dsig:DigestValue>
+      </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
@@ -1314,14 +1326,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Woocommerce Intouch Integration.exe" size="987056">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Woocommerce Intouch Integration.exe" size="1006512">
       <assemblyIdentity name="Woocommerce Intouch Integration" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>FgJoqTP6VOz/zhx5aeDwyYtI5UbyJznWZhfqifGgjcA=</dsig:DigestValue>
+        <dsig:DigestValue>TJdDIjWZTf2CiN6Y439J3Z6mQ2i4yu58d7rtQ5Q9V/Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1436,13 +1448,13 @@
       <dsig:DigestValue>MdGyJpjBvnyzV08VqrhdR1PgT0Rxzulm+OhFtlDBwLc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Woocommerce Intouch Integration.exe.config" size="19709">
+  <file name="Woocommerce Intouch Integration.exe.config" size="17772">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>98qNw0vw/WRHQTOn8DlSjaURgStQBd9sT9tMIhteaaQ=</dsig:DigestValue>
+      <dsig:DigestValue>JWuaXfYl6NoCJPq33UQusCTZLxoZ1vBBcUTdcabGVUQ=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
