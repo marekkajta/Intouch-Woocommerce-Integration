@@ -1326,14 +1326,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Woocommerce Intouch Integration.exe" size="1006512">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Woocommerce Intouch Integration.exe" size="1008560">
       <assemblyIdentity name="Woocommerce Intouch Integration" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>TJdDIjWZTf2CiN6Y439J3Z6mQ2i4yu58d7rtQ5Q9V/Q=</dsig:DigestValue>
+        <dsig:DigestValue>PbrxmN+LWhsXofMcj0FtXu7CYM72baEnhVaPYI60HV8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
