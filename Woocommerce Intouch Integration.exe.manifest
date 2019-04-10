@@ -1333,19 +1333,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>PbrxmN+LWhsXofMcj0FtXu7CYM72baEnhVaPYI60HV8=</dsig:DigestValue>
+        <dsig:DigestValue>urh+NnJJSxdLmSR49OkMNzQO8NNllo+NbI6t+QAModg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WooCommerce.NET.dll" size="398336">
-      <assemblyIdentity name="WooCommerce.NET" version="0.7.5.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WooCommerce.NET.dll" size="461312">
+      <assemblyIdentity name="WooCommerce.NET" version="0.7.7.0" publicKeyToken="FF41D0B6C937438D" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>cb7D+RLI7yNMeN3CPaqMULGFw/leu6F+aHBhIoqaINY=</dsig:DigestValue>
+        <dsig:DigestValue>QwyvkO60qfE4s+osbZX8gQfcSzQITQsdg7BBmdD/RS4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
