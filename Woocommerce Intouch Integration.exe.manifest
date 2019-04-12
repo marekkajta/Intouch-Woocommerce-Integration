@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Woocommerce Intouch Integration.exe" version="1.0.0.7" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="Woocommerce Intouch Integration.exe" version="1.0.0.9" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Woocommerce Intouch Integration" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HaloAPI.dll" size="202240">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HaloAPI.dll" size="202752">
       <assemblyIdentity name="HaloAPI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>p7cADKjf80mwndCZTqNjZzms+GjKBc6kjrcwLg0eddY=</dsig:DigestValue>
+        <dsig:DigestValue>5QdMGivnlCqgLwr0HKq8wJNMyM3hN3tK+d98OXoIaz4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1326,14 +1326,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Woocommerce Intouch Integration.exe" size="1008560">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Woocommerce Intouch Integration.exe" size="1022384">
       <assemblyIdentity name="Woocommerce Intouch Integration" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>urh+NnJJSxdLmSR49OkMNzQO8NNllo+NbI6t+QAModg=</dsig:DigestValue>
+        <dsig:DigestValue>a+UYwgInX4UmmmdmAelDSUejVjq/Vkjab2VdauqFSjk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1439,6 +1439,15 @@
       <dsig:DigestValue>A6cCthmqzDmCL7oSret5DHn9SSPYE2Bf6Yh45+xWEME=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="Resources\Intouch-woo-logo.png" size="27887">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tWuLViFx662uUD3CxWGPJArOO8RcubaItkpQyGRJZEU=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="Resources\logo.png" size="9108">
     <hash>
       <dsig:Transforms>
@@ -1446,6 +1455,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>MdGyJpjBvnyzV08VqrhdR1PgT0Rxzulm+OhFtlDBwLc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\ReportServer.gif" size="10926">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1nfwUJBoVE7GgeUJkvEIfm0xROv2in3g93nxPgnSt3o=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Woocommerce Intouch Integration.exe.config" size="17772">
