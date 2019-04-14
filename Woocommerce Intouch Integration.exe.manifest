@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>5QdMGivnlCqgLwr0HKq8wJNMyM3hN3tK+d98OXoIaz4=</dsig:DigestValue>
+        <dsig:DigestValue>HcfqbvU9fmvz89KzvODoT2uMZ0Ua7o01O50Fc0rEqR0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1326,14 +1326,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Woocommerce Intouch Integration.exe" size="1022384">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Woocommerce Intouch Integration.exe" size="1003440">
       <assemblyIdentity name="Woocommerce Intouch Integration" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>a+UYwgInX4UmmmdmAelDSUejVjq/Vkjab2VdauqFSjk=</dsig:DigestValue>
+        <dsig:DigestValue>h4klkeZCnDP0M5e8vTNG+ZAIjQJNwmUxoHPewhDBCwA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
